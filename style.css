@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+#encabezado{
+    display: flex;
+    color: darkorange;
+    justify-content: center;
+  }
+#titulo{
+    display: inline-block;
+    background: rgba(166, 133, 50, 0.285);
+}
+#colors{
+    background: black;
+    color: white;
+    
+}
+.links{
+    color: blue;
+    background: red;
+    font-size:30px;
+    padding: 5px;
+    text-decoration: none;
+}
+.nav-main{
+    background: blueviolet;
+    font-size: 40px;
+    padding: 10px;
+}
+#portada-imagen{
+    justify-content: center;
+    display: flex;
+ 
+}
+
+#portada{
+    display: inline-block;
+   
+}
