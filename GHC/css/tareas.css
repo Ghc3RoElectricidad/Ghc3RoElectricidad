@@ -1,0 +1,39 @@
+#body{
+    background: black;
+    color: white;
+}
+#titulo{
+    color: blue;
+    
+}
+#navegacion2{
+background: blueviolet;
+}
+.links{
+background: red;
+font-size: large;
+text-decoration: none;
+color: blue;
+}
+
+.dia{
+    display: flex;
+    justify-content: center;
+    
+}
+.dias{
+    
+    display: inline-block;
+    color: red;
+    background-color: brown;
+}
+.articulo{
+   
+    display: inline-block;
+    color: white;
+    font-size: large;
+}
+.articulos{
+    display: flex;
+    justify-content: center;
+}
