@@ -1,0 +1,16 @@
+#cuerpo{
+    background: black;
+}
+.configuración{
+   display: flex;
+    color: white;
+    font-size: large;
+justify-content: center;
+}
+.articulo{
+    display: inline-block;
+}
+#kda{
+ color: red;
+ background: rgba(165, 42, 42, 0.477);
+}

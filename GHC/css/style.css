@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0%;
+}
+#encabezado {
+  display: block;
+  color: darkorange;
+  justify-content: center;
+}
+#titulo { 
+  margin: 0px 170px;
+ background: rgba(165, 42, 42, 0.556);
+ font-size: 4em;
+}
+#colors {
+  background: black;
+  color: white;
+}
+
+#portada-imagen {
+ display: block;
+ margin: 0px 20px
+
+}
+
+#portada2{
+  display: flex;
+  
+}
+#p3{
+  color: black;
+  margin: 102px;
+}
+p2{
+  color: black;
+  display: block;
+  margin: 20px;
+}
+#portada{
+  display: inline-block;
+}
+
+#Novedades {
+  display: flex;
+  color: rgb(30, 9, 227);
+  justify-content: center;
+  margin: 10px;
+}
+#novedades2 {
+  display: inline-block;
+  background: rgba(128, 0, 128, 0.315);
+}
+.Suscesos {
+  margin: 0px 10px;
+  display: flex;
+  color: rgb(228, 10, 10);
+  justify-content: center;
+}
+#kissday {
+  display: inline-block;
+  background: rgba(233, 5, 146, 0.208);
+}
+
+#anuncio2 {
+  margin: 2%;
+  display: flex;
+  font-size: 20%;
+  justify-content: right;
+}
+#anuncio {
+  display: inline-block;
+}
+#inicios {
+  max-width: 950px;
+  display: flex;
+  justify-content: center;
+}
+#p {
+  color: black;
+  margin: 120px;
+}
+.kiss-day {
+  text-decoration: none;
+  color: rgb(255, 0, 0);
+}

@@ -1,0 +1,29 @@
+#body{
+    background: black;
+    color: white;
+}
+#titulo{
+    color: blue;
+    
+}
+.dia{
+    display: flex;
+    justify-content: center;
+    
+}
+.dias{
+    
+    display: inline-block;
+    color: red;
+    background-color: brown;
+}
+.articulo{
+   
+    display: inline-block;
+    color: white;
+    font-size: large;
+}
+.articulos{
+    display: flex;
+    justify-content: center;
+}

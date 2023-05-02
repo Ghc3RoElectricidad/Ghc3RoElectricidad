@@ -1,0 +1,22 @@
+
+.nav-main {
+    background: blueviolet;
+    font-size: large;
+    padding: 10px;
+  }
+.links {
+    color: blue;
+    background: red;
+    font-size: large;
+    padding: 5px;
+    text-decoration: none;
+
+  }
+.links:hover{
+  background: violet;
+  color: brown;
+}
+.links:active{
+  background: rgb(151, 7, 151);
+  color: crimson;
+}

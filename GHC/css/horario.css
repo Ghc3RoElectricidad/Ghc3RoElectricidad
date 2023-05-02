@@ -1,0 +1,22 @@
+body{
+    background: black;
+    color: white;
+}
+.container{
+    display: block;
+  justify-content: center;
+}
+#h1h{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    background-color: rgba(127, 255, 212, 0.401);
+    color: chartreuse;
+  display: block;
+    padding-left: 5px;
+}
+#horarios{
+    display: flex ;
+    justify-content: center;
+}
